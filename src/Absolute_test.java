@@ -18,6 +18,7 @@ public class Absolute_test {
 		//단항(1) ++ --   이항(2) 산술,논리,비교
 		result=(num1>=0)? num1 : num1*(-1);
 		System.out.println(result);
+//		System.out.println("ㅎㅎㅎㅎㅎㅎㅎㅎ");
 		
 		
 	}
