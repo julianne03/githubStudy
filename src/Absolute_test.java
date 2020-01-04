@@ -19,6 +19,7 @@ public class Absolute_test {
 		result=(num1>=0)? num1 : num1*(-1);
 		System.out.println(result);
 //		System.out.println("ぞぞぞぞぞぞぞぞ");
+//		System.out.println("馬戚馬戚");
 		
 		
 	}
